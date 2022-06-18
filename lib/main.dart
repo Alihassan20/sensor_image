@@ -95,7 +95,7 @@ class _MyHomePageState extends State<MyHomePage> {
             left: 10,
             right: 10,
             top: 10,
-
+            bottom: 10,
             child: Center(
               child: Container(
                 width: 250,
