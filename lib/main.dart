@@ -96,7 +96,9 @@ class _MyHomePageState extends State<MyHomePage> {
 
             child: Center(
               child: Container(
-                width: 250, decoration: BoxDecoration(
+                width: 250,
+                height: 350,
+                decoration: BoxDecoration(
                   border: Border.all(color: Colors.white, width: .1),
                   image: DecorationImage(
                       image: AssetImage(imgUrl), fit: BoxFit.cover),
