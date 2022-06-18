@@ -92,7 +92,8 @@ class _MyHomePageState extends State<MyHomePage> {
                 );
               }),
           Positioned(
-
+            left: 10,
+            right: 10, top: 10,
 
             child: Center(
               child: Container(
